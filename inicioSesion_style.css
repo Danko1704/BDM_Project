@@ -1,5 +1,5 @@
 body{
-    background-image: url(Imagenes/SteveBg.jpg);
+    background-image: url(Imagenes/Mario.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -59,7 +59,7 @@ body{
     cursor: pointer;
 }
 
-.olvide1{
+.registrarse{
     color: white;
     text-decoration-style: none;
     text-decoration-line: none;
@@ -70,7 +70,7 @@ body{
     background: rgba(0, 0, 0, .5);
 }
 
-.olvide1:hover{
+.registrarse:hover{
     color: white;
     text-decoration-style: none;
     text-decoration-line: none;
