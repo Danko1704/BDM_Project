@@ -1,5 +1,5 @@
 body{
-    background-image: url(Imagenes/Mario.jpg);
+    background-image: url(Imagenes/Kirby.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -25,14 +25,13 @@ body{
     background: none;
     box-shadow: none;
     outline: none;
-    color: rgb(255, 255, 255);
 }
 
 .form-control::placeholder{
     color: white;
 }
 
-.ingresar{
+.registrarse{
     background: #222A3F;
     padding: 10px;
     font-size: 16px;
@@ -42,37 +41,6 @@ body{
     transition: 0.5s ease-in;
 }
 
-.ingresar:hover{
-    color: white;
-}
-
-.olvide{
-    color: white;
-    text-decoration-style: none;
-    text-decoration-line: none;
-}
-
-.olvide:hover{
-    color: white;
-    text-decoration-style: none;
-    text-decoration-line: none;
-    cursor: pointer;
-}
-
-.registrarse{
-    color: white;
-    text-decoration-style: none;
-    text-decoration-line: none;
-    font-size: 20px;
-    font-weight: 700!important;
-    padding: 10px;
-    border-radius: 10px;
-    background: rgba(0, 0, 0, .5);
-}
-
 .registrarse:hover{
     color: white;
-    text-decoration-style: none;
-    text-decoration-line: none;
-    cursor: pointer;
 }
