@@ -1,5 +1,5 @@
 body{
-    background-image: url(Imagenes/mountain.jpg);
+    background-image: url(Imagenes/SteveBg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -25,6 +25,7 @@ body{
     background: none;
     box-shadow: none;
     outline: none;
+    color: rgb(255, 255, 255);
 }
 
 .form-control::placeholder{
