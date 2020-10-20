@@ -85,7 +85,7 @@ body{
     font-weight: 700!important;
     padding: 10px;
     border-radius: 10px;
-    background: rgba(0, 0, 0, .5);
+    background: rgb(31, 77, 49);
 }
 
 .regresar:hover{
